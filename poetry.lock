@@ -31,7 +31,7 @@ description = "A comprehensive HTTP client library."
 name = "httplib2"
 optional = false
 python-versions = "*"
-version = "0.17.4"
+version = "0.18.1"
 
 [[package]]
 category = "main"
@@ -76,7 +76,8 @@ dev = ["pytest", "pytest-timeout", "coverage", "tox", "sphinx", "pallets-sphinx-
 watchdog = ["watchdog"]
 
 [metadata]
-content-hash = "62bc1f2fdf7a09aac685bb5b4c8650bf02cc7c48f3f1098cfdecfeaca99f6ae5"
+content-hash = "c8de7ffd2376f512c8fd39e408d802f61c335d2532ca0515f4cfd649f5acf0a2"
+lock-version = "1.0"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -89,8 +90,8 @@ flask = [
     {file = "Flask-1.1.2.tar.gz", hash = "sha256:4efa1ae2d7c9865af48986de8aeb8504bf32c7f3d6fdc9353d34b21f4b127060"},
 ]
 httplib2 = [
-    {file = "httplib2-0.17.4-py3-none-any.whl", hash = "sha256:743cff16beadd128511e786474740264aa805fba106d6fc90e3586829ad0298b"},
-    {file = "httplib2-0.17.4.tar.gz", hash = "sha256:1e9340ecf0187a621bdcfb407c32e04e8e09fc6ab28b050efa38f20eae0e975f"},
+    {file = "httplib2-0.18.1-py3-none-any.whl", hash = "sha256:ca2914b015b6247791c4866782fa6042f495b94401a0f0bd3e1d6e0ba2236782"},
+    {file = "httplib2-0.18.1.tar.gz", hash = "sha256:8af66c1c52c7ffe1aa5dc4bcd7c769885254b0756e6e69f953c7f0ab49a70ba3"},
 ]
 itsdangerous = [
     {file = "itsdangerous-1.1.0-py2.py3-none-any.whl", hash = "sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749"},

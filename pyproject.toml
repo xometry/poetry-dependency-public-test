@@ -7,7 +7,7 @@ authors = ["Benjamin Smedberg <bsmedberg@xometry.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 flask = "^1.1.2"
-httplib2 = "0.17.4"
+httplib2 = "0.18.1"
 
 [tool.poetry.dev-dependencies]
 
