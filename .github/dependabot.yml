@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"  # according to github, this parses poetry syntax automatically
+    directory: "/"
+    schedule:
+      interval: "daily"
